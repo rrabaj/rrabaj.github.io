@@ -3,4 +3,17 @@
     color: brown;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
+    
+}
+
+#cim{
+
+    font-size: 36px;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tdnev{
+    font-size: 25px;
+    color: red;
+    text-align: center;
 }
