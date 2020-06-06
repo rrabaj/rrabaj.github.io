@@ -1,16 +1,31 @@
-#fejlec{
+
+@font-face{
+    font-family: "petit";
+    src: url("font/PetitFormalScript-Regular.ttf");
+    font-weight: 900;
+    font-size: 120pt;
+    }
+    
+    #fejlec{
     font-size: 24px;
     color: rgb(3, 2, 24);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
     
 }
-
+#tabla{
+    width: 90%;
+    text-align: center;
+    border-color: tomato;
+     
+}
 #cim{
 
-    font-size: 36px;
+    font-size: 50px;
+    font-weight: bold;
     color: darkblue;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "petit";
+    margin: 10px 0 50px 0;
 }
 .tdnev{
     font-size: 25px;
