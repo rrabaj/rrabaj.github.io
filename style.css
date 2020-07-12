@@ -37,18 +37,19 @@
 }
 .tdnev_Z{
     font-size: 25px;
-    color: rgba(15, 15, 15, 0.63);
+    color: rgba(161, 12, 12, 0.774);
     text-align: center;
 }
 .tdnev_D{
     font-size: 25px;
-    color: rgba(230, 76, 16, 0.411);
+    color: rgba(67, 189, 87, 0.411);
     text-align: center;
 }
 .tdnev{
     font-size: 25px;
-    color: rgba(13, 14, 13, 0.336);
+    color: rgba(221, 25, 25, 0.336);
     text-align: center;
+    font-weight: bold;
 }
 .datumok{
     font-size: 24px;
