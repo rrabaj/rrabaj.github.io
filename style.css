@@ -45,13 +45,20 @@
     color: rgba(67, 189, 87, 0.418);
     text-align: center;
 }
+
 .tdnev{
-    font-size: 25px;
-    color: rgba(19, 18, 18, 0.89);
-    text-align: center;
-    font-weight: bold;
-    font-family: "petit";
+font-size: 25px;
+color: red;
+text-align: center;
+font-weight: bold;
+font-family: "petit";
+
 }
+
+
+
+
+
 .datumok{
     font-size: 24px;
     color: seagreen;
