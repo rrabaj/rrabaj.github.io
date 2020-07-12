@@ -30,11 +30,22 @@
     font-family: "petit";
     margin: 10px 0 50px 0;
 }
-.tdnev{
+.tdnev_M{
     font-size: 25px;
-    color: rgb(4, 36, 16);
+    color: rgb(22, 76, 192);
     text-align: center;
 }
+.tdnev_Z{
+    font-size: 25px;
+    color: rgba(28, 226, 28, 0.411);
+    text-align: center;
+}
+.tdnev_D{
+    font-size: 25px;
+    color: rgba(230, 76, 16, 0.411);
+    text-align: center;
+}
+
 .datumok{
     font-size: 24px;
     color: seagreen;
